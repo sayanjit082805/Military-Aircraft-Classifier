@@ -143,7 +143,7 @@ The model achieves an overall accuracy of ~75% on the validation data and ~74% o
 
 st.sidebar.markdown(
     """
-> "All aircraft images used are sourced from publicly available search engines (Google Images, DuckDuckGo). These images are used for non-commercial, educational, and demonstration purposes only. 
+> All aircraft images used are sourced from publicly available search engines (Google Images, DuckDuckGo). These images are used for non-commercial, educational, and demonstration purposes only. 
 """
 )
 
